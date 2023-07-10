@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.iconTheme": null,
+    "workbench.activityBar.visible": true,
+    "debug.openDebug": "openOnDebugBreak",
+    "editor.tabCompletion": "off",
+    "powershell.integratedConsole.focusConsoleOnExecute": true,
+    "files.defaultLanguage": "",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "powershell.buttons.showPanelMovementButtons": false,
+    "powershell.codeFolding.showLastLine": true,
+    "powershell.powerShellDefaultVersion": "Windows PowerShell (x64)",
+    "editor.fontSize": 17
+}
